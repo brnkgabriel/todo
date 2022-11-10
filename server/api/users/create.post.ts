@@ -1,6 +1,6 @@
-import { Users } from "../../src/users"
+import { Users } from "../../../src/users"
 import { PrismaClient } from "@prisma/client"
-import { tryWrap } from "../../helpers/trywraps"
+import { tryWrap } from "../../../helpers/trywraps"
 
 const client = new PrismaClient()
 const users = new Users(client.user)

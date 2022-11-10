@@ -1,1 +1,1 @@
-connect to planet scale: pscale connect todo-dt test
+connect to planet scale: [pscale connect todo-dt test]

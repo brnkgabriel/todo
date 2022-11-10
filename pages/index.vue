@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full min-h-screen bg-gray-100">
+  <div class="w-full min-h-screen bg-gray-100 font-body">
     <section class="text-center">
       <div class="w-24 h-24 bg-red-500 inline-block"></div>
       <h1 class="text-4xl pt-5 text-gray-800 font-bold">What are we doing today?</h1>
